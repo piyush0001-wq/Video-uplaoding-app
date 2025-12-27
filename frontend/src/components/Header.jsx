@@ -16,7 +16,7 @@ export default function Header() {
         >
           🎬 Video<span className="text-blue-400">Sense</span>
         </a>
-      <p>Role is {role}</p>
+      
         {/* DESKTOP NAV */}
         <nav className="hidden md:flex items-center space-x-8 text-sm font-medium text-gray-200">
           {token ? (

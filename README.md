@@ -1,4 +1,4 @@
-# VideoSense - Intelligent Video Processing Platform
+# VideoSense - Video Processing Platform
 
 VideoSense is a full-stack web application designed for uploading, streaming, and managing video content securely. It features a modern React frontend and a robust Node.js backend that handles video storage using MongoDB GridFS.
 
